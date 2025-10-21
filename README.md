@@ -1,4 +1,4 @@
 # hello-world
 Repositorio para practicar el flujo de GitHub
 
-Curso 25-26
+Curso 2025-2026
